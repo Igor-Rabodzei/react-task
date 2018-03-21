@@ -1,0 +1,32 @@
+{
+  "name": "rapid_coin",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.17.1",
+    "chart.js": "^1.1.1",
+    "crypto-socket": "^3.0.0",
+    "moment": "^2.20.1",
+    "moment-range": "^3.1.0",
+    "react": "^16.2.0",
+    "react-bootstrap": "^0.32.0",
+    "react-chartjs": "^1.2.0",
+    "react-dom": "^16.2.0",
+    "react-fontawesome": "^1.6.1",
+    "react-native-socketio": "^0.3.0",
+    "react-scripts": "1.1.0",
+    "react-select": "^1.2.1",
+    "react-websocket": "^2.0.0",
+    "socket.io-react": "^1.2.0",
+    "ws": "^4.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-socket-io": "^0.2.4"
+  }
+}
