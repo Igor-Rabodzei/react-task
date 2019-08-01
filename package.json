@@ -7,7 +7,7 @@
     "chart.js": "^1.1.1",
     "crypto-socket": "^3.0.0",
     "moment": "^2.20.1",
-    "moment-range": "^3.1.0",
+    "moment-range": "^4.0.2",
     "react": "^16.2.0",
     "react-bootstrap": "^0.32.0",
     "react-chartjs": "^1.2.0",
