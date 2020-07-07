@@ -9,7 +9,7 @@
     "moment": "^2.20.1",
     "moment-range": "^4.0.2",
     "react": "^16.2.0",
-    "react-bootstrap": "^0.33.1",
+    "react-bootstrap": "^1.1.0",
     "react-chartjs": "^1.2.0",
     "react-dom": "^16.2.0",
     "react-fontawesome": "^1.6.1",
